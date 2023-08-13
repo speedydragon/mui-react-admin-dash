@@ -1,7 +1,5 @@
-# React Admin Dashboard
+# hello hossein
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+first `cd` to your project folder then run `npm install` to install all neccessery packages. then run `npm start` to run the project.
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
-
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+# the packages than i used in React admin dashboard :
